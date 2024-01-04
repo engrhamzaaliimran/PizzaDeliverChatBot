@@ -26,7 +26,7 @@ openai.api_key ='YOUR-API-KEY'
 2. Run the script:
 
    ```bash
-   python pizza_delivery_chatbot.py
+   python bot.py
    ```
 
 3. Interact with the chatbot by entering messages when prompted.
